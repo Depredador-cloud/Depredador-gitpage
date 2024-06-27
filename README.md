@@ -4,7 +4,7 @@
 ### Hi there 👋, I'm Christian Morales
 #### Software Developer | Computer Science Explorer
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/profile.php?id=100006291639953))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)]([[https://facebook.com/yourprofile](https://www.facebook.com/profile.php?id=100006291639953)](https://www.facebook.com/profile.php?id=100006291639953))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
