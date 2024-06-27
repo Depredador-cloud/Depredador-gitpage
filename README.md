@@ -70,6 +70,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=depredador-cloud&show_icons=true&count_private=true)  
 
 
+
+https://github.com/Depredador-cloud/Depredador-gitpage/assets/63932523/6c5bd5ec-3c1e-4ded-bb03-bc5a4e4e8804
+
+
+
 ### Hola 👋, Christian Luis Morales Paez
 #### Soy un Ingeniero en informatica y explorador de la informatica
 ![Soy un Ingeniero en informatica y explorador de la informatica](https://github.com/Depredador-cloud/Depredador-gitpage)
