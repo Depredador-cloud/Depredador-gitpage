@@ -18,7 +18,7 @@
 
 ![tor browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
-![followers](https://img.shields.io/github/followers/{depredador-cloud}.svg?style=social&label=Follow&maxAge=2592000)
+![followers](https://img.shields.io/github/followers/{depredador-cloud.svg?style=social&label=Follow&maxAge=2592000)
 
 
 ## Programming Languages
