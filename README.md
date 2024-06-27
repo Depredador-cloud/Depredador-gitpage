@@ -1,5 +1,5 @@
 # Depredador-gitpage
-![Banner](path/to/your/banner.png)file:///home/christian/Downloads/DALL%C2%B7E%202024-06-27%2006.09.05%20-%20Create%20an%20image%20of%20a%20futuristic%20predator%20named%20Cloud,%20wearing%20advanced%20tactical%20gear%20with%20high-tech%20enhancements%20such%20as%20glowing%20eyes,%20advanced%20helmet.webp
+
 
 
 ### Hi there 👋, I'm Christian Morales
