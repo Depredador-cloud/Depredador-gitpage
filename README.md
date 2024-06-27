@@ -1,6 +1,6 @@
 # Depredador-gitpage
 
-![Banner](![DALL·E 2024-06-27 06 09 05 - Create an image of a futuristic predator named Cloud, wearing advanced tactical gear with high-tech enhancements such as glowing eyes, advanced helmet](https://github.com/Depredador-cloud/Depredador-gitpage/assets/63932523/16b666ae-87bb-4de5-9513-24f3e0d059ba)
+[DALL·E 2024-06-27 06 09 05 - Create an image of a futuristic predator named Cloud, wearing advanced tactical gear with high-tech enhancements such as glowing eyes, advanced helmet](https://github.com/Depredador-cloud/Depredador-gitpage/assets/63932523/16b666ae-87bb-4de5-9513-24f3e0d059ba)
 
 ### Hi there 👋, I'm Christian Morales
 #### Software Developer | Computer Science Explorer
