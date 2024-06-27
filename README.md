@@ -10,6 +10,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/depredador-cloud.svg?style=social&label=Follow&maxAge=2592000)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depredador-cloud&theme=blue-green)
+
 ## Test 
 
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
