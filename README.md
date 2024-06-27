@@ -8,6 +8,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006291639953)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-luis-morales-paez-b69a951a7/)
 
+![GitHub followers](https://img.shields.io/github/followers/depredador-cloud.svg?style=social&label=Follow&maxAge=2592000)
+
 ## Test 
 
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
@@ -17,8 +19,6 @@
 ![windows terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ![tor browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-
-![GitHub followers](https://img.shields.io/github/followers/depredador-cloud.svg?style=social&label=Follow&maxAge=2592000)
 
 
 ## Programming Languages
