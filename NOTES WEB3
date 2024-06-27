@@ -1,0 +1,209 @@
+
+Skip to content
+
+DEV Community
+Create account
+😎 Awesome Web3 - DEV Community
+
+13
+
+43
+
+Cover image for 😎 Awesome Web3
+Vedant Chainani
+Vedant Chainani
+Posted on Sep 15, 2022 • Updated on Jan 12, 2023
+
+
+14
+😎 Awesome Web3
+#
+beginners
+#
+web3
+#
+blockchain
+😎 Awesome Lists (3 Part Series)
+1
+📛 Awesome Badges
+2
+🏆 Awesome Clones
+3
+😎 Awesome Web3
+The re-decentralization of the global information technology ecosystems is one of the most significant objectives and advantages of the Web 3.0 revolution.
+
+The bitcoin and Ethereum community, which would undoubtedly profit from an internet that is more dependent on their technology, seems to be the source of a lot of the excitement. But dipping into relatively new technology can be extremely hazardous and difficult.
+
+So, to assist you in navigating the world of web3, here is a selection of carefully picked resources. Visit the GitHub repo to make your contributions; more contributions are welcome.
+
+GitHub logo Envoy-VC / awesome-web3
+compiled list of more than 350 resources to delve into the endless realm of blockchain technology and web3.
+Please Give ❤️ and add to your 🔖s . Also share 🔗/s with your friends if you like it.
+
+# Contents
+✨ Basics of Computer Science
+🔑 Basics of Cryptography
+💵 Crypto economics
+⛓️ Blockchain Basics
+₿ Bitcoin
+Ξ Ethereum
+⟠ Solidity
+🪢 DAO Communities
+🔨 SDKs
+🔗 Build Blockchain using X
+🏬 NFT Marketplace
+🌿 Node Providers
+🗄️ File Storage
+🧑‍💻 Ethereum Development Environment
+💻 Ethereum Development IDEs
+🆔 Identity
+🤵‍♂️ Client SDKs
+🔗 Blockchains
+🏫 Learning Platforms
+📹 YouTube Channels
+📚 Web3 Books
+🎙️ Talks
+🎥 Movies
+📻 Podcasts
+📖 Magazines and Blogs
+👤 Communities
+🌐 Useful Websites
+✨ Basics of Computer Science
+Name	Description	Link	Type
+CS 10 The Beauty and Joy of Computing	CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language. Students learn about history, social implications, great principles, and future of computing.	https://inst.eecs.berkeley.edu/~cs10/fa14/	Course
+CS 101 Computer Science 101	CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Participants play and experiment with short bits of "computer code" to bring to life to the power and limitations of computers.	http://online.stanford.edu/course/computer-science-101-self-paced	Course
+CS50's Introduction to Computer Science	Free course issued by Harvard itself will teach you all you need to know to understand the basics of computers and data handling.	https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home	Course
+Papers We Love	Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers.	https://github.com/papers-we-love/papers-we-love	Resource
+🔝 Back to Top
+
+🔑 Basics of Cryptography
+Name	Description	Link	Type
+Basic concepts	Asymmetric encryption, Digital signature, Certificate	https://resources.infosecinstitute.com/topic/role-of-digital-signatures-in-asymmetric-cryptography/	Article
+Bitcoin Transaction Malleability	Most subtle and nefarious Bitcoin flaws of all time: transaction malleability.	https://eklitzke.org/bitcoin-transaction-malleability	Article
+Cryptography I, by Dan Boneh.	Cryptography course by Dan Boneh offered by Stanford University	https://www.coursera.org/learn/crypto	Course
+Cryptopals	learn crypto by doing challenges, where you build and break popular ciphers.	https://cryptopals.com/	Challenge
+Digital signature extension	Multi-signature, Blind signature, Group signature, Ring signature	https://www.iacr.org/archive/pkc2003/25670031/25670031.pdf	PDF
+How Not to Use ECDSA	Incorrect usage of the Elliptic Curve Digital Signature Algorithm (ECDSA).	https://yondon.blog/2019/01/01/how-not-to-use-ecdsa/	Article
+Merkel Tree	How Merkeltree works.	https://dev.to/envoy_/implement-gasless-whitelist-in-your-nft-contract-4j4l	Article
+🔝 Back to Top
+
+💵 Crypto economics
+Name	Description	Link	Type
+BLOC-511DL:Introduction to Digital Currencies	The course is designed to provide an introductory understanding of decentralized digital currencies (cryptocurrencies) such as Bitcoin. In particular, the course will survey the theory and principles by which cryptocurrencies operate, practical examples of basic cryptocurrency use, including clients, wallets, transactions.	https://www.unic.ac.cy/blockchain/free-mooc/	Course
+Governance in 0x Protocol	Roadmap, timeline and the role of the ZRX token	https://blog.0xproject.com/governance-in-0x-protocol-86779ae5809e	Article
+Introduction to Cryptoeconomics, by Vitalik Buterin.	In-depth Introduction to how tokens work.	https://www.youtube.com/watch?v=pKqdjaH1dRo	Video
+Livepeer Whitepaper, by Doug Petkanics and Eric Tang	Details the cryptoeconomics of the Livepeer protocol, users pay, either for broadcasting or consuming. Transcoders are chosen through DPoS.	https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md	Article
+The Pretence of Knowledge, by Friedrich von Hayek.	Lecture to the memory of Alfred Nobel, December 11, 1974	https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/	Article
+Token Engineering Series, by Trent McConaghy	Token Engineering Case Studies	https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4	Article
+Token Engineering Series, by Trent McConaghy	Towards a Practice of Token Engineering	https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca	Article
+Token Engineering Series, by Trent McConaghy	Can Blockchains Go Rogue?	https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790	Article
+🔝 Back to Top
+
+⛓️ Blockchain Basics
+Name	Description	Link	Type
+BLOCKCHAIN DEMO 2.O	This demo will guide you through the blockchain step-by-step.	https://blockchaindemo.io/	Interactive Course
+Blockchain Technology	Learn the fundamentals of blockchain technology and how it will power the economy of tomorrow.	https://www.edx.org/course/blockchain-technology	Course
+Deconfusing Decentralization	Greg Slepak clears up confusion surrounding the concept of decentralization and introduces a simple metric for quantifying it. 5-minute presentation for Ethereum's DEVCON1 conference.	https://www.youtube.com/watch?v=7S1IqaSLrq8	Talk
+Elliptic Curve Cryptography	Introduction to understanding elliptic curve cryptography and coding it.	https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab	Article
+Learn the basics of Distributed Ledger Technology (DLT)	Get to know this game-changing technology and how to start using it	https://developer.ibm.com/tutorials/cl-blockchain-basics-intro-bluemix-trs/	Article
+Mastering Bitcoin, by Andreas Antonopoulos.	Mastering Bitcoin 2nd Edition - Programming the Open Blockchain	https://github.com/bitcoinbook/bitcoinbook	E-Book
+Promise of the Blockchain	In this talk Vinay Gupta explains how the blockchain has come about and puts the development of this new technology in perspective of the history of computing, databases and the internet.	https://vimeo.com/161183966	Talk
+Why Decentralization Matters	Decentralization is a commonly misunderstood concept. This article explores the main reasons why decentralization is important.	https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e	Article
+🔝 Back to Top
+
+₿ Bitcoin
+Name	Description	Link	Type
+Bill Gates: Bitcoin Is Exciting Because It's Cheap	Bill Gates, co-founder of Microsoft and co-chairman of the Bill & Melinda Gates Foundation, comments on Bitcoin during an interview with Erik Schatzker on "Street Smart.”	https://www.youtube.com/watch?v=DyAufA2lWn0&t=26s	Talk
+Bitcoin. Sweat. Tide. Meet the future of branded currency.	Paul Kemp-Robertson walks us through a new generation of currency, supported by that same marketing ... but on behalf of a private brand. From Nike Sweat Points to bottles of Tide (which are finding an unexpected use in illegal markets), meet the non-bank future of currencies.	https://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency?language=en	Talk
+Bitcoin: A Peer-to-Peer Electronic Cash System	A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.	https://bitcoin.org/bitcoin.pdf	Whitepaper
+But how does bitcoin actually work?	The math behind cryptocurrencies.	https://www.youtube.com/watch?v=bBC-nXj3Ng4	Video
+Mastering Bitcoin 2nd Edition	Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin.	https://github.com/bitcoinbook/bitcoinbook	Book
+The Biggest Moments in Bitcoin History	The Biggest Moments in Bitcoin History	https://imgur.com/kVF3kFu	Infographics
+🔝 Back to Top
+
+Ξ Ethereum
+Name	Description	Link	Type
+BBC explains Ethereum	Vitalik Buterin Ethereum Blockchain	https://www.youtube.com/watch?v=0X33lgMbvdI	Video
+Blockchain Framework & Platforms	Learn essential principles of blockchain platforms as well as their growth, progress, and important use cases. Dive deep into fundamental parts of developing apps on commonly used platforms including Ethereum, Hyperledger, and Quorum.	https://www.edx.org/course/blockchain-framework-platforms	Course
+Decentralised Oracles: a comprehensive overview	After bringing smart contracts to the world, the world must be brought to smart contracts	https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841	Article
+Ethereum in Depth series	The idea is to explain and describe in detail core behavior of the EVM. We will see how contracts are created, how message calls work, and take a look at everything related to data management, such as storage, memory, calldata, and the stack.	https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/	Article
+EtherWorld	An Ethereum educational resource in the form of blogs and video guides	https://etherworld.co/tag/ethereum/	Article, Video
+EthHub	The goal of EthHub is to provide a single source for essential Ethereum information.	https://docs.ethhub.io/	Documentation
+Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood	Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.	https://github.com/ethereumbook/ethereumbook	Book
+Understanding Ethereum	An educational resource about Ethereum targeted at beginners.	https://education.district0x.io/general-topics/understanding-ethereum/	Interactive Course
+Why decentralization matters	A brief history of a Internet and advantages of decentralization	https://cdixon.org/2018/02/18/why-decentralization-matters	Article
+🔝 Back to Top
+
+⟠ Solidity
+Name	Description	Link	Type
+30 Days of Solidity	30 Days of Solidity step-by-step guide to learn Smart Contract Development.	https://github.com/Envoy-VC/30-Days-of-Solidity	Course
+Best Practices for Smart Contract Development	Developer handbook for smart contract developers.	https://yos.io/2019/11/10/smart-contract-development-best-practices/	Article
+Cadena	Tutorials for building smart contracts, dapps, on multiple chains and earn a Cadena NFT Certificate.	https://cadena.dev/	Interactive Course
+Cheatsheet	Cheatsheet from the official docs.	https://docs.soliditylang.org/en/latest/cheatsheet.html	Infographics
+Clean Contracts	Developer guide to writing clean smart contract code.	https://www.useweb3.xyz/guides/clean-contracts	Article
+CryptoZombies, by Loom Network.	CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game.	https://cryptozombies.io/	Interactive Course
+Discover Ethereum & Solidity	Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.	https://ludu.co/course/ethereum/what-is-ethereum/	Interactive Course
+Docs	Official documentation.	https://docs.soliditylang.org/en/latest/	Documentation
+Ethereum Smart Contract Security Best Practices (Consensys)	General security philosophy, known attacks, and sample code.	https://consensys.github.io/smart-contract-best-practices/	Tutorial
+Solidity By Example	An introduction to the language with simple examples.	https://solidity-by-example.org/	Tutorial
+Solidity Cheatsheet	A comprehensive Solidity Cheatsheet.	https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg	Infographics
+Solidity Cheatsheet by Manojpramesh	Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.	https://github.com/manojpramesh/solidity-cheatsheet	GitHub Repo
+Solidity Koans	This is an intermediate series for learning Solidity and smart contract development. You will explore technicalities from syntax edgecases, to assembly in the EVM, to smart contract coding conventions, all through test driven development.	https://soliditykoans.org/	Website
+Solidity workshop	Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.	https://github.com/androlo/solidity-workshop	Course
+solidity-patterns	A collection of patterns and best practices for smart contract development.	https://github.com/fravoll/solidity-patterns	GitHub Repo
+Teach Yourself Web3	Join a community of Web3 engineers & educators that can help you supercharge your way into Web3 development.	https://www.teachyourselfweb3.com/courses/teach-yourself-web3	Course
+The Ethernaut	The Ethernaut is a Web3/Solidity based wargame inspired by http://overthewire.org/, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.	https://ethernaut.openzeppelin.com/	Interactive Course
+useweb3.xyz/tutorials	A curated list of free, community tutorials that are based around specific projects, tasks or challenges.	https://www.useweb3.xyz/tutorials	Tutorial
+🔝 Back to Top
+
+🪢 DAO Communities
+Name	Description	Link
+Buildspace	Onboarding devs to web3. Start building cool stuff right now, earn NFTs, access secret opportunities in crypto.	https://buildspace.so/
+Cadena	Build smart contracts, dapps, on multiple chains with a community and earn a Cadena NFT Certificate.	https://cadena.dev/
+Developer DAO	Build web3 with friends. New membership is officially open.	https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a4957b0b83f60f9fa4ebe
+LearnWeb3DAO	Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!.	https://www.learnweb3.io/
+Odyssey	Odyssey is a learning DAO on a mission to onboard the next 1 million people to web3. We've written quality ELI5 guides for intro to web3, DeFi, DAOs, NFTs, and more.	https://www.odysseydao.com/
+Web3 University	Teaching Web3 to 20k+ developers worldwide.	https://www.web3.university/
+WebXDAO	An Open Source Community that focuses on decentralized applications, web 3, and blockchain technologies 🚀	https://bio.link/webxdao
+Women Build Web3	Women Build Web3 is a global collective of women and non-binary developers learning and building in web3.	https://www.womenbuildweb3.com/
+🔝 Back to Top
+
+🔨 SDKs
+Name	Description	Link
+Alchemy SDK	The easiest way to connect your dApp to the blockchain and get the power of Alchemy's infrastructure. Just download, write two lines of code, and go.	https://docs.alchemy.com/reference/alchemy-sdk-quickstart
+Moralis	The Ultimate Web3 Development Platform.	https://moralis.io/
+thirdweb	Smart contracts you control. Tools that accelerate your workflow. Intuitive SDKs and widgets for developers.	https://thirdweb.com/
+🔝 Back to Top
+
+🔗 Build Blockchain using X
+Name	Description	Link	Type
+C#: Programming The Blockchain in C#	This book will take you from basic to advanced use of the Blockchain. It will not teach you how to use an API (such as the RPC API provided with Bitcoin Core), but it will teach you how to make such an API.	https://programmingblockchain.gitbook.io/programmingblockchain/	Book
+C++: Blockchain from Scratch		https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.cpp	GitHub Repo
+Creating Your First Blockchain with Java	The aim of this tutorial series, is to help you understand blockchain technology by developing one.	https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa	Tutorial
+Crystal	Write your own blockchain and PoW algorithm using Crystal	https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52	Article
+Go: Building Blockchain in Go	A simplified blockchain implementation in Golang	https://github.com/Jeiwan/blockchain_go	Tutorial
+JavaScript:	Build your own Blockchain in JavaScript	https://github.com/nambrot/blockchain-in-js	GitHub Repo
+Let’s implement a cryptocurrency in Kotlin.	This two posts series explains how you can build a very simple, yet functional, cryptocurrency.	https://medium.com/@vasilyf/lets-implement-a-cryptocurrency-in-kotlin-part-1-blockchain-8704069f8580	Article
+Ruby: Programming Blockchains Step-by-Step (Manuscripts Book Edition)	Programming Blockchains Step-by-Step book / guide. Let's build blockchains from scratch (zero) step by step. Let's start with crypto hashes…	https://github.com/openblockchains/programming-blockchains	Tutorial
+Scala	How to build a simple actor-based blockchain	https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177	Article
+TypeScript	Naivecoin: a tutorial for building a cryptocurrency	https://lhartikk.github.io/	Book
+🛸 Learn Blockchains by Building One In Python	Build an Interactive Blockchain in Python and test it using postman.	https://dev.to/envoy_/learn-blockchains-by-building-one-in-python-2kb3	Article
+🔝 Back to Top
+
+🏬 NFT Marketplace
+Name	Description	Link
+Axie Infinity	Axie Marketplace is the online shop for the video game Axie Infinity.	https://marketplace.axieinfinity.com/
+Binance	Binance, one of the largest cryptocurrency exchanges, added an NFT marketplace in 2021. The international crypto exchange is one of many other industry players entering the NFT sector, like http://crypto.com/ NFT, which describes itself as a highly-curated NFP marketplace.	https://www.binance.com/en/nft/home
+Decentraland	Decentraland is completely based on the fantasy (Metaverse), with pretty much the same functionality as the real world.	https://decentraland.org/
+Looksrare	LooksRare is a community-first NFT marketplace with rewards for participating.	https://looksrare.org/
+NBA Top Shot	If you’re a major basketball fan, the NBA Top Shot marketplace lets you buy NFTs of great moments in basketball history.	https://nbatopshot.com/
+Nifty Gateway	Nifty Gateway is known for hosting expensive and exclusive NFT sales, including digital artist Pak’s “The Merge,” which sold for $91.8 million. It made headlines when the platform was acquired in late 2019 by Gemini, which is run by the Winklevoss twins, Cameron and Tyler Winklevoss.	https://www.niftygateway.com/
+OpenSea	Opensea is the largest NFT marketplace and the one I used to mint my first NFT.	https://opensea.io/
+Rarible	A very large marketplace, partnered with Adobe. To use the marketplace, you need its own token "Rarible”	https://rarible.com/
+SuperRare	SuperRare is a high-end NFT art marketplace that positions itself in the NFT ecosystem as an art gallery. This marketplace doesn’t accept “meme style” NFTs, and is highly selective with NFT submissions.	https://superrare.com/
+🔝 Back to Top
+
+🌿 Node Providers
+Name	Description	Link
+Alchemy	One magic line of code supercharges your development with the world’s most powerful blockchain developer platform, relied upon by the majority of the world's top blockchain apps.	https://www.alchemy.com/
+Ankr	Ankr offers both a decentralized node provider model and 
